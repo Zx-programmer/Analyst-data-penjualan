@@ -1,0 +1,11 @@
+TransactionID,OrderDate,CustomerID,CustomerRegion,ProductID,Category,UnitPrice,Quantity,DiscountApplied,PaymentMethod,OrderStatus
+TX1001,2024-01-05,CUST-089,Jakarta,PROD-01,Electronics,1500000,1,0.05,Credit Card,Completed
+TX1002,2024-01-05,CUST-102,Bandung,PROD-05,Fashion,250000,2,0.00,E-Wallet,Completed
+TX1003,2024-01-06,CUST-089,Jakarta,PROD-03,Electronics,450000,1,0.10,Credit Card,Completed
+TX1004,2024-01-07,CUST-210,Surabaya,PROD-12,Home & Living,120000,3,0.00,Bank Transfer,Cancelled
+TX1005,2024-01-08,CUST-105,Jakarta,PROD-01,Electronics,1500000,1,0.00,E-Wallet,Completed
+TX1006,2024-01-09,,Medan,PROD-08,Fashion,180000,1,0.15,COD,Completed
+TX1007,2024-01-10,CUST-312,Surabaya,PROD-05,Fashion,250000,1,0.00,E-Wallet,Returned
+TX1008,2024-01-11,CUST-102,Bandung,PROD-03,Electronics,450000,2,0.05,E-Wallet,Completed
+TX1009,2024-01-12,CUST-089,Jakarta,PROD-15,Beauty,85000,4,0.00,Credit Card,Completed
+TX1010,2024-01-12,CUST-405,Semarang,PROD-12,Home & Living,120000,2,0.10,Bank Transfer,Completed
